@@ -7,6 +7,6 @@ print("The bad guys are trying to take over the world by wearing skinny jeans. P
 #Build a ranged loop to countdown
 for i in range (seconds):
   print(str(seconds - i))
-  #Adding sleep for 1 second between each iteration of countdown
+#Adding sleep for 1 second between each iteration of countdown
   time.sleep(1)
 print("THIS MESSAGE WILL NOW SELF-DESTRUCT")
